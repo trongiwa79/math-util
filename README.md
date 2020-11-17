@@ -8,7 +8,7 @@
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-[Facebook](https://facebook.com/trongiwa79)
-[Email](mailto:trongiwa79@gmail.com)
+1. [Facebook](https://facebook.com/trongiwa79)
+2. [Email](mailto:trongiwa79@gmail.com)
 
 #### © 2020 by trongiwa79
