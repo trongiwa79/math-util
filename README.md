@@ -1,5 +1,7 @@
 # Welcome to Math Utility repository
 
+![Image of Math](https://p3cdn4static.sharpschool.com/UserFiles/Servers/Server_770743/Image/Technology/Other%20Pictures/math.jpg)
+
 ### This repo contains the Java source code to simulate the methods of Math class found in JDK
 
 ## You will find in this repo:
